@@ -7,3 +7,6 @@ Please feel free to reach us out on Twitter if you have any questions or request
 Twitter - [@chrisdior.eth](https://twitter.com/chrisdior777) or [@ddimitrovv22](https://twitter.com/ddimitrovv22)
 
 # Audits
+
+- [TokenLocker - locks ERC20 tokens in a holder contract](https://github.com/CDSecurity/audits/blob/main/audit%20reports/TokenLocker.md)
+- [Aelin - Fundraising](./reports/Aelin-Sub7-Security-Review.pdf)
