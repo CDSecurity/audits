@@ -9,4 +9,4 @@ Twitter - [@chrisdior.eth](https://twitter.com/chrisdior777) or [@ddimitrovv22](
 # Audits
 
 - [TokenLocker - ERC20 locker](https://github.com/CDSecurity/audits/blob/main/audit%20reports/TokenLocker.md)
-- [Aelin - Fundraising](./reports/Aelin-Sub7-Security-Review.pdf)
+- [Aelin - Fundraising](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Aelin-Sub7-Security-Review.pdf)
