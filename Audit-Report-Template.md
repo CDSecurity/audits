@@ -10,8 +10,6 @@ A smart contract security review can never verify the complete absence of vulner
 
 _explanation what the protocol does, some architectural comments, technical documentation_
 
-## Observations
-
 # Threat Model
 
 ## Privileged Roles & Actors
