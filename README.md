@@ -8,5 +8,8 @@ Twitter - [@chrisdior.eth](https://twitter.com/chrisdior777) or [@ddimitrovv22](
 
 # Audits
 
-- [TokenLocker - ERC20 locker](https://github.com/CDSecurity/audits/blob/main/audit%20reports/TokenLocker.md)
+- [SupraVRF- VRF service](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Supra-VRF-Subscription.md)
 - [Aelin - Fundraising](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Aelin-Sub7-Security-Review.pdf)
+- [TokenLocker - ERC20 locker](https://github.com/CDSecurity/audits/blob/main/audit%20reports/TokenLocker.md)
+
+
