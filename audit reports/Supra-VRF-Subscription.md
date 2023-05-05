@@ -67,8 +67,8 @@ More [docs](https://supraoracles.com/docs/vrf1).
 
 # Security Assessment Summary
 
-**_review commit hash_ - [448b8d934a0591e10aea871d4a405e3fa7aa28c4](https://github.com/kmaox/ethlizardstaking/commit/448b8d934a0591e10aea871d4a405e3fa7aa28c4)**
-
+**_review commit hash_ - [84076ce834bbfd585f67251638df397ec33058c1](https://github.com/Entropy-Foundation/supra-vrf/tree/84076ce834bbfd585f67251638df397ec33058c1)**
+(the repository is private for now)
 ### Scope
 
 The following smart contracts were in scope of the audit:
