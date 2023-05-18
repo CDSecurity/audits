@@ -163,6 +163,10 @@ The “0”s here are the value of the `amountOutMin` argument which is used for
 
 Add a protection parameter to the above-mentioned functions, so that the `VoxToken` contract can specify the minimum out amount.
 
+### CLIENT
+
+Acknowledged - corrected.
+
 # [M-01] Owner can steal all of the `stakingToken`
 
 ## Severity
@@ -196,6 +200,10 @@ This could be exploited by a malicious or compromised owner. This admin privileg
 Add an additional check inside the require statement:
 
 `    tokenAddress != address(stakingToken)`
+
+### CLIENT
+
+Acknowledged - corrected.
 
 # [M-02] `notifyRewardAmount` can lead to loss of yields for the users
 
@@ -243,6 +251,10 @@ There are two potential fixes to this issue:
 
 2. Keep the `rewardRate` constant but extend `periodFinish` time by `+= reward / rewardRate`.
 
+### CLIENT
+
+Acknowledged - corrected.
+
 # [M-03] `setRewardsDuration` allows setting near zero or enormous rewardsDuration, which breaks reward logic
 
 ## Severity
@@ -281,13 +293,25 @@ if (block.timestamp >= periodFinish) {
 
 Check for min and max range in the rewardsDuration setter, as too small or too big rewardsDuration breaks the logic.
 
+### CLIENT
+
+Acknowledged - corrected.
+
 # [L-01] Check array arguments have the same length
 
 When the `sendBatch` function is called inside `VoxTokenAirdrop`, two array-type arguments are passed. Validate that the arguments have the same length so you do not get unexpected errors if they don't.
 
+### CLIENT
+
+Acknowledged - corrected.
+
 # [L-02] Use two-step ownership transfer approach
 
 The `owner` role is crucial for the protocol as there are a lot of functions with the `onlyOwner` and the `restricted` modifiers. Make sure to use a two-step ownership transfer approach by using `Ownable2Step` from OpenZeppelin as opposed to `Ownable` as it gives you the security of not unintentionally sending the `owner` role to an address you do not control. Also, consider using only `onlyOwner` modifier instead of using both `onlyOwner` and `restricted` modifiers because they are basically the same and using both only creates confusion.
+
+### CLIENT
+
+Acknowledged - corrected.
 
 # [L-03] Avoid using `tx.origin` for validation
 
@@ -302,6 +326,10 @@ Inside `VoxToken.sol`, the following `require` statement is used:
 ```
 
 This can be easily bypassed if the function is called by a contract. Use `msg.sender` instead of `tx.origin`.
+
+### CLIENT
+
+Acknowledged - corrected.
 
 # [L-04] Missing 0 address check
 
@@ -321,6 +349,10 @@ constructor(
 
 Consider adding a 0 address check for `rewardsToken` as well.
 
+### CLIENT
+
+Acknowledged - corrected.
+
 # [L-05] Handle 0 `reward` case
 
 In `getReward` a check is missing if the rewards are equal to 0.
@@ -338,19 +370,35 @@ function getReward() public nonReentrant updateReward(msg.sender) {
         }
 ```
 
+### CLIENT
+
+Acknowledged - corrected.
+
 # [L-06] Set bounds for `multiplier`
 
 In `setMultiplier` the owner of the contract can set a new value for the `multiplier`. However, there might be a problem if there is a compromised or malicious owner. Set a max bound in `setMultplier`.
 
+### CLIENT
+
+Acknowledged - corrected.
+
 # [L-07] Transactions may revert because of a deadline
 
 In the `VoxSwapManager`, the `router.addLiquidity` is called and the `block.timestamp` is passed as `deadline`. This means that if the execution takes longer than the current timestamp, the transaction will revert as it can be seen from the [Uniswap documentation](https://docs.uniswap.org/contracts/v2/reference/smart-contracts/router-02). It is the same for `router.swapExactTokensForTokensSupportingFeeOnTransferTokens` and `router.swapExactTokensForTokensSupportingFeeOnTransferTokens`. Consider changing it to `block.timestamp + 2 minutes`, for example, to give it a bit of tolerance.
+
+### CLIENT
+
+Acknowledged - corrected.
 
 # [L-08] Add a `timelock` to `restricted` functions that set critical values
 
 It is a good practice to give time for users to react and adjust to critical changes. A `timelock` provides more guarantees and reduces the level of trust required, thus decreasing the risk for users. It also indicates that the project is legitimate. Here, no `timelock` capabilities seem to be used. We believe this impacts multiple users enough to make them want to react/be notified ahead of time.
 
 Consider adding a `timelock` to functions like: `setWithdrawalFee`, `setLockingPeriod`, etc.
+
+### CLIENT
+
+Acknowledged - corrected.
 
 # [I-01] Using `SafeMath` when compiler is ^0.8.0
 
