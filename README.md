@@ -8,6 +8,7 @@ Twitter - [@chrisdior.eth](https://twitter.com/chrisdior777) or [@ddimitrovv22](
 
 # Audits
 
+- [DORA - Oracle](https://github.com/CDSecurity/audits/blob/main/audit%20reports/DORA_review.md)
 - [MahaLend - Decentralized non-custodial liquidity protocol](https://github.com/CDSecurity/audits/blob/main/audit%20reports/MahaLend.pdf)
 - [VOX 2.0 Finance - DeFi project](https://github.com/CDSecurity/audits/blob/main/audit%20reports/VOX2.0-Report.md)
 - [SupraVRF- VRF service](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Supra-VRF-Subscription.md)
