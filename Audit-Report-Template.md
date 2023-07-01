@@ -1,10 +1,10 @@
 # Introduction
 
-A time-boxed security review of the **protocol name** protocol was done by **ddimitrov22** and **chrisdior4** , with a focus on the security aspects of the application's implementation.
+A time-boxed security review of the **protocol name** protocol was done by **ddimitrov22** and **chrisdior4**, with a focus on the security aspects of the application's implementation.
 
 # Disclaimer
 
-A smart contract security review can never verify the complete absence of vulnerabilities. This is a time, resource and expertise bound effort where I try to find as many vulnerabilities as possible. I can not guarantee 100% security after the review or even if the review will find any problems with your smart contracts. Subsequent security reviews, bug bounty programs and on-chain monitoring are strongly recommended.
+A smart contract security review can never verify the complete absence of vulnerabilities. This is a time, resource, and expertise-bound effort where we try to find as many vulnerabilities as possible. We can not guarantee 100% security after the review or even if the review will find any problems with your smart contracts. Subsequent security reviews, bug bounty programs, and on-chain monitoring are strongly recommended.
 
 # About **ProtocolName**
 
