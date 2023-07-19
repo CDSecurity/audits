@@ -74,7 +74,7 @@ The following number of issues were found, categorized by their severity:
 | ID     | Title                                                                | Severity      |
 | ------ | -------------------------------------------------------------------- | ------------- |
 | [H-01] | All of the pairings' timestamps will be updated for epoch 0          | High          |
-| [L-01] | A `require` check is placed at the wrong place                       | Low           |
+| [L-01] | A `require` check is placed in the wrong place                       | Low           |
 | [L-02] | Use `Ownable2Step` instead of `Ownable`                              | Low           |
 | [I-01] | NatSpec docs are incomplete                                          | Informational |
 | [I-02] | Use `onlyOwner` modifier instead of repetitive `require` checks      | Informational |
@@ -89,13 +89,13 @@ The following number of issues were found, categorized by their severity:
 
 ## Severity
 
-**Impact:** High, as the epochs are important part of the protocol and the logic will be broken.
+**Impact:** High, as the epochs, are an important part of the protocol and the logic will be broken.
 
 **Likelihood:** High, as it will happen every time a cluster is processed.
 
 ## Description
 
-An `epoch` is a pre-determined period of time which is used to decide when to reorganize tribes and redraw the clans. Therefore, it is used to store the values of any pairings for a given `epoch` in a mapping. The variable is initialized with default value 0 inside `SupraSValueFeedVerifier` :
+An `epoch` is a pre-determined period of time that is used to decide when to reorganize tribes and redraw the clans. Therefore, it is used to store the values of any pairings for a given `epoch` in a mapping. The variable is initialized with default value 0 inside `SupraSValueFeedVerifier` :
 
 `uint256 epochCount = 0;`
 
@@ -132,13 +132,13 @@ This means that the `timestamp` will be always updated for `epoch` 0 for the spe
 
 ## Recommendations
 
-Consider to implement a functionality which updates the `epoch`. This can be done by updating the epoch when a specific number of clusters are processed or when a given amount of time has passed (e.g. 2 days) as described in the documentation.
+Consider implementing a functionality that updates the `epoch`. This can be done by updating the epoch when a specific number of clusters are processed or when a given amount of time has passed (e.g. 2 days) as described in the documentation.
 
 ### CLIENT
 
 Acknowledged - corrected.
 
-# [L-01] A `require` check is placed at the wrong place
+# [L-01] A `require` check is placed in the wrong place
 
 ## Description
 
