@@ -1,6 +1,8 @@
-# @chrisdior.eth and @ddimitrov22 smart contract security audits
+# CD Security audits
 
-Portfolio of our smart contract security findings as a team.
+![Logo-Silver](https://github.com/CDSecurity/audits/assets/114223356/a8c4e223-cc34-4c97-a4a2-01ab014d8f4f)
+
+Portfolio of our smart contract security reports.
 
 Please feel free to reach us on Twitter if you have any questions or requests for a security audit of your project:
 
