@@ -10,10 +10,10 @@ Twitter - [@chrisdior.eth](https://twitter.com/chrisdior777) or [@ddimitrovv22](
 
 # Audits
 
-- [DORA - Oracle](https://github.com/CDSecurity/audits/blob/main/audit%20reports/DORA_review.md)
+- [DORA - Oracle](https://github.com/CDSecurity/audits/blob/main/audit%20reports/DORA-final.pdf)
 - [MahaLend - Decentralized non-custodial liquidity protocol](https://github.com/CDSecurity/audits/blob/main/audit%20reports/MahaLend.pdf)
 - [VOX 2.0 Finance - DeFi project](https://github.com/CDSecurity/audits/blob/main/audit%20reports/VOX2.0-Report.md)
-- [SupraVRF- VRF service](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Supra-VRF-Subscription.md)
+- [SupraVRF- VRF service](https://github.com/CDSecurity/audits/blob/main/audit%20reports/SUPRAVRF-final.pdf)
 - [Aelin - Fundraising](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Aelin-Sub7-Security-Review.pdf)
 - [TokenLocker - ERC20 locker](https://github.com/CDSecurity/audits/blob/main/audit%20reports/TokenLocker.md)
 
