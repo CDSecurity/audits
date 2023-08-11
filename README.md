@@ -16,6 +16,7 @@ Twitter - [@chrisdior.eth](https://twitter.com/chrisdior777) or [@ddimitrovv22](
 - [SupraVRF- VRF service](https://github.com/CDSecurity/audits/blob/main/audit%20reports/SUPRAVRF-final.pdf)
 - [Aelin - Fundraising](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Aelin-Sub7-Security-Review.pdf)
 - [TokenLocker - ERC20 locker](https://github.com/CDSecurity/audits/blob/main/audit%20reports/TokenLocker.md)
+- [ZKTsunami - a decentralized financial payment network](https://github.com/CDSecurity/audits/blob/main/audit%20reports/ZKTsunami-report.pdf)
 
 # [Click here to see our website](https://cdsecurity.site/)
 
