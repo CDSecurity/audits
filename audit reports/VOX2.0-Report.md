@@ -77,7 +77,7 @@ The following number of issues were found, categorized by their severity:
 
 | ID     | Title                                                                                                             | Severity      |
 | ------ | ----------------------------------------------------------------------------------------------------------------- | ------------- |
-| [H-01] | There is no slippage control in `addLiquidity` and `swapToWeth` methods, which expose strategy to sandwich attack | High          |
+| [H-01] | There is no slippage control in `addLiquidity` and `swapToWeth` methods | High          |
 | [M-01] | Owner can steal all of the `stakingToken`                                                                         | Medium        |
 | [M-02] | `notifyRewardAmount` can lead to loss of yields for the users                                                     | Medium        |
 | [M-03] | `setRewardsDuration` allows setting near zero or enormous rewardsDuration, which breaks reward logic              | Medium        |
@@ -104,7 +104,7 @@ The following number of issues were found, categorized by their severity:
 
 # Detailed Findings
 
-# [H-01] There is no slippage control in `addLiquidity` and `swapToWeth` methods, which expose the strategy to sandwich attack
+# [H-01] There is no slippage control in `addLiquidity` and `swapToWeth` methods
 
 ## Severity
 
