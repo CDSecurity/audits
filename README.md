@@ -18,6 +18,7 @@ Twitter - [@chrisdior.eth](https://twitter.com/chrisdior777) or [@ddimitrovv22](
 - [TokenLocker - ERC20 locker](https://github.com/CDSecurity/audits/blob/main/audit%20reports/TokenLocker.md)
 - [ZKTsunami - a decentralized financial payment network](https://github.com/CDSecurity/audits/blob/main/audit%20reports/ZKTsunami-report.pdf)
 - [EBASE - ERC-20 token on BASE](https://github.com/CDSecurity/audits/blob/main/audit%20reports/EBASE-security-review.pdf)
+- [Sumer.Money - Lending and Borrowing protocol](https://github.com/CDSecurity/audits/blob/main/audit%20reports/SumerMoney%20-%20Security-Review.pdf)
 
 # [Click here to see our website](https://cdsecurity.site/)
 
