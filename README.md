@@ -20,6 +20,7 @@ Twitter - [@chrisdior.eth](https://twitter.com/chrisdior777) or [@ddimitrovv22](
 - [EBASE - ERC-20 token on BASE](https://github.com/CDSecurity/audits/blob/main/audit%20reports/EBASE-security-review.pdf)
 - [Sumer.Money - Lending and Borrowing protocol](https://github.com/CDSecurity/audits/blob/main/audit%20reports/SumerMoney%20-%20Security-Review.pdf)
 - [Libree - DeFi](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Libree-Security-Review.pdf)
+- [TradFiLines - NFT](https://github.com/CDSecurity/audits/blob/main/audit%20reports/TradFiLines-report.pdf)
 
 # [Click here to see our website](https://cdsecurity.site/)
 
