@@ -6,7 +6,11 @@ Portfolio of our smart contract security reports.
 
 Please feel free to reach us on Twitter if you have any questions or requests for a security audit of your project:
 
-Twitter - [@chrisdior.eth](https://twitter.com/chrisdior777) or [@ddimitrovv22](https://twitter.com/ddimitrovv22)
+Twitter - [@chrisdior.eth](https://twitter.com/chrisdior777) / [@ddimitrovv22](https://twitter.com/ddimitrovv22)
+
+or
+
+Telegram - [chrisdior777](https://t.me/chrisdior777) / [ddimitrovv22](https://t.me/ddimitrov22)
 
 # Audits
 
