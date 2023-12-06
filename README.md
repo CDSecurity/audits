@@ -10,7 +10,7 @@ Twitter - [@chrisdior.eth](https://twitter.com/chrisdior777) / [@ddimitrovv22](h
 
 or
 
-Telegram - [chrisdior777](https://t.me/chrisdior777) / [ddimitrovv22](https://t.me/ddimitrov22)
+Telegram - [chrisdior777](https://t.me/chrisdior777) / [ddimitrov22](https://t.me/ddimitrov22)
 
 # Audits
 
