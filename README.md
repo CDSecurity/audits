@@ -27,6 +27,7 @@ Telegram - [chrisdior777](https://t.me/chrisdior777) / [ddimitrov22](https://t.m
 - [Libree - DeFi](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Libree-Security-Review.pdf)
 - [TradFiLines - NFT](https://github.com/CDSecurity/audits/blob/main/audit%20reports/TradFiLines-report.pdf)
 - [Molly - ERC-20 token](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Molly-report.pdf)
+- [GarageSale - ERC721/ERC1155 auction](https://github.com/CDSecurity/audits/blob/main/audit%20reports/GarageSale-report-final.pdf)
 
 # [Click here to see our website](https://cdsecurity.site/)
 
