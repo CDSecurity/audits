@@ -1,18 +1,8 @@
-# CD Security audits
+# CD Security
+![Why choose us](https://github.com/CDSecurity/audits/assets/114223356/2afecd3c-a3be-4588-aa86-9fc363fe1275)
 
-![Logo-Silver](https://github.com/CDSecurity/audits/assets/114223356/a8c4e223-cc34-4c97-a4a2-01ab014d8f4f)
 
-Portfolio of our smart contract security reports.
-
-Please feel free to reach us on Twitter if you have any questions or requests for a security audit of your project:
-
-Twitter - [@chrisdior.eth](https://twitter.com/chrisdior777) / [@ddimitrovv22](https://twitter.com/ddimitrovv22)
-
-or
-
-Telegram - [chrisdior777](https://t.me/chrisdior777) / [ddimitrov22](https://t.me/ddimitrov22)
-
-# Audits
+# Security Audits
 
 - [DORA - Oracle](https://github.com/CDSecurity/audits/blob/main/audit%20reports/DORA-final.pdf)
 - [MahaLend - Decentralized non-custodial liquidity protocol](https://github.com/CDSecurity/audits/blob/main/audit%20reports/MahaLend.pdf)
@@ -29,8 +19,9 @@ Telegram - [chrisdior777](https://t.me/chrisdior777) / [ddimitrov22](https://t.m
 - [Molly - ERC-20 token](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Molly-report.pdf)
 - [GarageSale - ERC721/ERC1155 auction](https://github.com/CDSecurity/audits/blob/main/audit%20reports/GarageSale-report-final.pdf)
 
-# [Click here to see our website](https://cdsecurity.site/)
-
-
+# Contact us
+- Twitter: [@chrisdior.eth](https://twitter.com/chrisdior777) / [@ddimitrovv22](https://twitter.com/ddimitrovv22)
+- Telegram: [chrisdior777](https://t.me/chrisdior777) / [ddimitrov22](https://t.me/ddimitrov22)
+- [Website](https://cdsecurity.site/)
 
 
