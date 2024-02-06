@@ -1,6 +1,6 @@
 # Introduction
 
-A time-boxed security review of the **protocol name** protocol was done by **ddimitrov22** and **chrisdior4**, with a focus on the security aspects of the application's implementation.
+A time-boxed security review of the **protocol name** protocol was done by **CD Security**, with a focus on the security aspects of the application's implementation.
 
 # Disclaimer
 
@@ -8,7 +8,7 @@ A smart contract security review can never verify the complete absence of vulner
 
 # About **ProtocolName**
 
-_explanation what the protocol does, some architectural comments, technical documentation_
+_explanation of what the protocol does, some architectural comments, technical documentation_
 
 # Threat Model
 
