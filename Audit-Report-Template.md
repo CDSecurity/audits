@@ -36,7 +36,7 @@ _explanation of what the protocol does, some architectural comments, technical d
 | **Likelihood: Medium** | High         | Medium         | Low         |
 | **Likelihood: Low**    | Medium       | Low            | Low         |
 
-**Impact** - the technical, economic and reputation damage of a successful attack
+**Impact** - the technical, economic, and reputation damage of a successful attack
 
 **Likelihood** - the chance that a particular vulnerability gets discovered and exploited
 
