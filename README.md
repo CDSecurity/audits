@@ -20,6 +20,7 @@
 - [GarageSale - ERC721/ERC1155 auction](https://github.com/CDSecurity/audits/blob/main/audit%20reports/GarageSale-report-final.pdf)
 - [The Universal Page Vault - Staking solution on LUSKO](https://github.com/CDSecurity/audits/blob/main/audit%20reports/UniversalPage-security-review.pdf)
 - [DragonStone - NFT English-style auction](https://github.com/CDSecurity/audits/blob/main/audit%20reports/DragonStone%20-%20report.pdf)
+- [Whirl - Privacy Solution](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Whirl-security-report.pdf)
 
 # Contact us
 - Twitter: [@chrisdior.eth](https://twitter.com/chrisdior777) / [@ddimitrovv22](https://twitter.com/ddimitrovv22)
