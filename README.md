@@ -9,6 +9,7 @@
 - [VOX 2.0 Finance - DeFi project](https://github.com/CDSecurity/audits/blob/main/audit%20reports/VOX2.0-Report.md)
 - [SupraVRF- VRF service](https://github.com/CDSecurity/audits/blob/main/audit%20reports/SUPRAVRF-final.pdf)
 - [Aelin - Fundraising](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Aelin-Sub7-Security-Review.pdf)
+- [Azuro - Betting engine](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Azuro-report.md)
 - [TokenLocker - ERC20 locker](https://github.com/CDSecurity/audits/blob/main/audit%20reports/TokenLocker.md)
 - [ZKTsunami - a decentralized financial payment network](https://github.com/CDSecurity/audits/blob/main/audit%20reports/ZKTsunami-report.pdf)
 - [EBASE - ERC-20 token on BASE](https://github.com/CDSecurity/audits/blob/main/audit%20reports/EBASE-security-review.pdf)
