@@ -1,6 +1,5 @@
 # CD Security
-![Why choose us](<img width="1254" alt="Screenshot_2024-03-17_at_23 13 30" src="https://github.com/CDSecurity/audits/assets/114223356/74f0a375-6a91-4b7f-813d-5a3b86af3641">
-)
+![Why choose us](https://github.com/CDSecurity/audits/assets/114223356/74f0a375-6a91-4b7f-813d-5a3b86af3641)
 
 
 # Security Audits
