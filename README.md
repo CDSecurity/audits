@@ -24,6 +24,7 @@
 - [Whirl - Privacy Solution](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Whirl-security-report.pdf)
 - [AirPuff - DeFi protocol](https://github.com/CDSecurity/audits/blob/main/audit%20reports/AirPuff-Report.pdf)
 - [Chateau Capital - DeFi protocol](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Chateau_Capital_audit.pdf)
+- [Wizard Gallery - NFT Marketplace](https://github.com/CDSecurity/audits/blob/main/audit%20reports/WizzardGallery-audit.pdf)
 
 # Contact us
 - Twitter: [@chrisdior.eth](https://twitter.com/chrisdior777) / [@ddimitrovv22](https://twitter.com/ddimitrovv22)
