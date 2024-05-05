@@ -25,6 +25,7 @@
 - [AirPuff - DeFi protocol](https://github.com/CDSecurity/audits/blob/main/audit%20reports/AirPuff-Report.pdf)
 - [Chateau Capital - DeFi protocol](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Chateau_Capital_audit.pdf)
 - [Wizard Gallery - NFT Marketplace](https://github.com/CDSecurity/audits/blob/main/audit%20reports/WizardGallery-audit.pdf)
+- [Privacy Pools - System designed to enhance security and privacy of transactions](https://github.com/CDSecurity/audits/blob/main/audit%20reports/PrivacyPools-audit.pdf)
 
 # Contact us
 - Twitter: [@chrisdior.eth](https://twitter.com/chrisdior777) / [@ddimitrovv22](https://twitter.com/ddimitrovv22)
