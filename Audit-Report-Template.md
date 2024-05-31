@@ -10,24 +10,6 @@ A smart contract security review can never verify the complete absence of vulner
 
 _explanation of what the protocol does, some architectural comments, technical documentation_
 
-# Threat Model
-
-## Privileged Roles & Actors
-
-## Security Interview
-
-**Q:** What in the protocol has value in the market?
-
-**A:**
-
-**Q:** In what case can the protocol/users lose money?
-
-**A:**
-
-**Q:** What are some ways that an attacker achieves his goals?
-
-**A:**
-
 # Severity classification
 
 | Severity               | Impact: High | Impact: Medium | Impact: Low |
