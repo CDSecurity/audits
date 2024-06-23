@@ -29,6 +29,7 @@
 - [Groge - Token](https://github.com/CDSecurity/audits/blob/main/audit%20reports/GrogeAuditReport.pdf)
 - [Athena - DeFi Insurance Protocol](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Athena-audit.pdf)
 - [Blerb - Hybrid DeFi Protocol](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Blerb_audit.pdf)
+- [Megapot - Lottery-based Protocol](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Megapot-security-review.pdf)
 
 # Contact us
 - Twitter: [@chrisdior.eth](https://twitter.com/chrisdior777) / [@ddimitrovv22](https://twitter.com/ddimitrovv22)
