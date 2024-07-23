@@ -31,6 +31,7 @@
 - [Blerb - Hybrid DeFi Protocol](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Blerb_audit.pdf)
 - [Megapot - Lottery-based Protocol](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Megapot-security-review.pdf)
 - [Sweepr - An NFT Liquidity Flywheel](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Sweepr-report.pdf)
+- [Blessed - Lottery](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Blessed_audit_final.pdf)
 
 # Contact us
 - Twitter: [@chrisdior.eth](https://twitter.com/chrisdior777) / [@ddimitrovv22](https://twitter.com/ddimitrovv22)
