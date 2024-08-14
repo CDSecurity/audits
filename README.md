@@ -19,7 +19,7 @@
 - [TradFiLines - NFT](https://github.com/CDSecurity/audits/blob/main/audit%20reports/TradFiLines-report.pdf)
 - [Molly - ERC-20 token](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Molly-report.pdf)
 - [GarageSale - ERC721/ERC1155 auction](https://github.com/CDSecurity/audits/blob/main/audit%20reports/GarageSale-report-final.pdf)
-- [The Universal Page Vault - Staking solution on LUSKO](https://github.com/CDSecurity/audits/blob/main/audit%20reports/UniversalPage-security-review.pdf)
+- [The Universal Page Vault - Staking solution on LUKSO](https://github.com/CDSecurity/audits/blob/main/audit%20reports/UniversalPage-security-review.pdf)
 - [DragonStone - NFT English-style auction](https://github.com/CDSecurity/audits/blob/main/audit%20reports/DragonStone%20-%20report.pdf)
 - [Whirl - Privacy Solution](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Whirl-security-report.pdf)
 - [AirPuff - DeFi protocol](https://github.com/CDSecurity/audits/blob/main/audit%20reports/AirPuff-Report.pdf)
