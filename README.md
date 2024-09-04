@@ -1,5 +1,5 @@
 # CD Security
-![Why choose us](https://github.com/CDSecurity/audits/assets/114223356/13f66d72-7a61-49d6-bf6f-ac4db4b258b4)
+![Official Security Partner of](https://github.com/user-attachments/assets/040c39a7-621a-446c-b4e4-75c3d814a58c)
 
 
 # Security Audits
