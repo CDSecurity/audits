@@ -1,5 +1,5 @@
 # CD Security
-![Official Security Partner of](https://github.com/user-attachments/assets/040c39a7-621a-446c-b4e4-75c3d814a58c)
+![CD-Security-S-1](https://github.com/user-attachments/assets/db7e485d-effe-4066-8d6b-de98ce6625bb)
 
 
 # Security Audits
