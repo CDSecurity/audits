@@ -35,6 +35,7 @@
 - [Varonve - NFT Staking](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Varonve_audit.pdf)
 - [TJRM - ICO program](https://github.com/CDSecurity/audits/blob/main/audit%20reports/TajirMedia_Audit_Report.pdf)
 - [Keiko - DeFi project](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Keiko_audit_report.pdf)
+- [TitanX: Farms - DeFi project](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Farms_audit.pdf)
 
 # Contact us
 - Twitter: [@chrisdior.eth](https://twitter.com/chrisdior777) / [@ddimitrovv22](https://twitter.com/ddimitrovv22)
