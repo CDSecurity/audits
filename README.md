@@ -1,4 +1,3 @@
-# CD Security
 ![CD-Security-S-1](https://github.com/user-attachments/assets/1e20ffab-5a3d-4982-9c58-b6df953c64fa)
 
 
