@@ -2,7 +2,7 @@
 ![CD-Security-S-1](https://github.com/user-attachments/assets/1e20ffab-5a3d-4982-9c58-b6df953c64fa)
 
 
-# Security Audits
+# CD Security Smart Contract Security Audits
 
 - [DORA - Oracle](https://github.com/CDSecurity/audits/blob/main/audit%20reports/DORA-final.pdf)
 - [MahaLend - Decentralized non-custodial liquidity protocol](https://github.com/CDSecurity/audits/blob/main/audit%20reports/MahaLend.pdf)
