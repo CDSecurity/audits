@@ -37,6 +37,7 @@
 - [TitanX: Farms - DeFi project](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Farms_audit.pdf)
 - [Euler - Wrapper contract](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Euler_Audit.pdf)
 - [Midnight - NFT Protocol](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Midnight_Official.pdf)
+- [Beezie - RWA Market](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Beezie_Official.pdf)
 
 # Contact us
 - Twitter: [@chrisdior.eth](https://twitter.com/chrisdior777) / [@ddimitrovv22](https://twitter.com/ddimitrovv22)
