@@ -39,6 +39,7 @@
 - [Midnight - NFT Protocol](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Midnight_Official.pdf)
 - [Beezie - RWA Market](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Beezie_Official.pdf)
 - [Ascendant - Perpetual auctions & NFT marketplace](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Ascendant-report.pdf)
+- [Vyper Boost](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Vyper-Boost-report.pdf)
 
 # Contact us
 - Twitter: [@chrisdior.eth](https://twitter.com/chrisdior777) / [@ddimitrovv22](https://twitter.com/ddimitrovv22)
