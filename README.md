@@ -41,6 +41,7 @@
 - [Ascendant - Perpetual auctions & NFT marketplace](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Ascendant-report.pdf)
 - [Vyper Boost](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Vyper-Boost-report.pdf)
 - [MatriX - Deflationary Token Protocol](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Matrix_Official.pdf)
+- [Dexlyn - DEX built on Supra Chain](https://github.com/CDSecurity/audits/blob/main/audit%20reports/DexlynBridge%20-%20report.pdf)
 
 # Contact us
 - Twitter: [@chrisdior.eth](https://twitter.com/chrisdior777) / [@ddimitrovv22](https://twitter.com/ddimitrovv22)
