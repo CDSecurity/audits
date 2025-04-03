@@ -47,6 +47,7 @@
 - [Volt - Staking](https://github.com/CDSecurity/audits/blob/main/audit%20reports/VoltStaking_Audit.pdf)
 - [eSIM Wallet](https://github.com/CDSecurity/audits/blob/main/audit%20reports/eSIM%20-%20report.pdf)
 - [CrashGame - Gambling Blockchain Game](https://github.com/CDSecurity/audits/blob/main/audit%20reports/CrashGame_Audit.pdf)
+- [Pear Protocol - Vesting](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Pear_Protocol_Audit.pdf)
 
 # Contact us
 - Twitter: [@chrisdior.eth](https://twitter.com/chrisdior777) / [@ddimitrovv22](https://twitter.com/ddimitrovv22)
