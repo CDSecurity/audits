@@ -42,6 +42,7 @@
 - [Vyper Boost](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Vyper-Boost-report.pdf)
 - [MatriX - Deflationary Token Protocol](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Matrix_Official.pdf)
 - [Dexlyn - DEX built on Supra Chain](https://github.com/CDSecurity/audits/blob/main/audit%20reports/DexlynBridge%20-%20report.pdf)
+- [Phoenix - Hyper Deflationary Protocol](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Phoenix_Audit_Report.pdf)
 - [DonutDAO - Token](https://github.com/CDSecurity/audits/blob/main/audit%20reports/DonutDAO-Audit.pdf)
 - [Beezie - StableSwap](https://github.com/CDSecurity/audits/blob/main/audit%20reports/BeezieStableSwap-Audit.pdf)
 - [Volt - Staking](https://github.com/CDSecurity/audits/blob/main/audit%20reports/VoltStaking_Audit.pdf)
