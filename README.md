@@ -1,5 +1,17 @@
 ![CD-Security-S-1](https://github.com/user-attachments/assets/1e20ffab-5a3d-4982-9c58-b6df953c64fa)
 
+<p align="center">
+  <a href="https://t.me/chrisdior777">
+    <img
+      src="https://img.shields.io/badge/BOOK%20AN%20AUDIT-blue?style=for-the-badge&logo=telegram&logoColor=white"
+      alt="Book an Audit"
+      width="300"   
+    />
+  </a>
+</p>
+<p align="center"><em>Let us know your security needs ☝️
+
+
 
 # CD Security Smart Contract Security Audits
 
