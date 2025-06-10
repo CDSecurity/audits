@@ -3,13 +3,14 @@
 <p align="center">
   <a href="https://t.me/chrisdior777">
     <img
-      src="https://img.shields.io/badge/BOOK%20AN%20AUDIT-blue?style=for-the-badge&logo=telegram&logoColor=white"
-      alt="Book an Audit"
-      width="300"   
+      src="https://img.shields.io/badge/BOOK%20AN%20AUDIT%20NOW-0F3E4C?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0F3E4C"
+      alt="Book an Audit Now"
+      width="350"
     />
   </a>
 </p>
-<p align="center"><em>Let us know your security needs ☝️
+<p align="center"><em>Let us know your security needs ☝️</em></p>
+
 
 
 
