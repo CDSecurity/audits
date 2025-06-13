@@ -24,7 +24,6 @@
 | VOX 2.0 Finance – DeFi project                            | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/VOX2.0-Report.md)             |
 | TokenLocker – ERC20 locker                                | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/TokenLocker.md)               |
 | EBASE – ERC-20 token on BASE                              | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/EBASE-security-review.pdf)    |
-| Sumer.Money – Lending and Borrowing protocol              | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/SumerMoney_Audit.pdf)         |
 | HexPayDay – Stake Ending protocol                         | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/HexPayDay_Report.pdf)         |
 | Libree – DeFi                                             | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Libree_Audit.pdf)             |
 | Molly – ERC-20 token                                      | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Molly_Audit.pdf)              |
