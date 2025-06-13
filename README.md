@@ -17,84 +17,84 @@
 
 ## DeFi
 
-| Project                                                   | Report                                                                                             |
-| --------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
-| Euler – Wrapper contract                                  | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Euler_Audit.pdf)              |
-| MahaLend – Decentralized non-custodial liquidity protocol | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/MahaLend.pdf)                 |
-| VOX 2.0 Finance – DeFi project                            | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/VOX2.0-Report.md)             |
-| TokenLocker – ERC20 locker                                | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/TokenLocker.md)               |
-| EBASE – ERC-20 token on BASE                              | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/EBASE-security-review.pdf)    |
-| HexPayDay – Stake Ending protocol                         | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/HexPayDay_Report.pdf)         |
-| Libree – DeFi                                             | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Libree_Audit.pdf)             |
-| Molly – ERC-20 token                                      | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Molly_Audit.pdf)              |
-| The Universal Page Vault – Staking solution on LUKSO      | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/UniversalPageVault_Audit.pdf) |
-| AirPuff – DeFi protocol                                   | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/AirPuff_Audit.pdf)            |
-| Chateau Capital – DeFi protocol                           | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/ChateauCapital_Audit.pdf)     |
-| Groge – Token                                             | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Groge_Token_Audit.pdf)        |
-| Athena – DeFi Insurance Protocol                          | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Athena_Audit.pdf)             |
-| Blerb – Hybrid DeFi Protocol                              | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Blerb_Audit.pdf)              |
-| Megapot – Lottery-based Protocol                          | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Megapot_Audit.pdf)            |
-| Sweeper – An NFT Liquidity Flywheel                       | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Sweeper_Audit.pdf)            |
-| Varowne – NFT Staking                                     | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Varowne_Audit.pdf)            |
-| Keiko – DeFi project                                      | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Keiko_Audit.pdf)              |
-| TitanX Farms – DeFi project                               | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/TitanX_Audit.pdf)             |
-| Midnight – NFT Protocol                                   | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Midnight_Audit.pdf)           |
-| Beezie – RWA Market                                       | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Beezie_RWA_Audit.pdf)         |
-| MatrixX – Deflationary Token Protocol                     | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/MatrixX_Audit.pdf)            |
-| Dexlyn – DEX built on Supra Chain                         | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Dexlyn_Audit.pdf)             |
-| Phoenix – Hyper Deflationary Protocol                     | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Phoenix_Audit.pdf)            |
-| DonutDAO – Token                                          | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/DonutDAO_Audit.pdf)           |
-| Volt – Staking                                            | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Volt_Audit.pdf)               |
-| Pear Protocol – Vesting                                   | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Pear_Protocol_Audit.pdf)      |
-| Vyper Boost                                               | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/VyperBoost_Audit.pdf)         |
-| Beezie – StableSwap                                       | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Beezie_StableSwap_Audit.pdf)  |
+| Project             | Description                                                                | Report                                                                                                  |
+| ------------------- | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| **Euler**           | Wrapper for the EUL token that locks and distributes rEUL as rewards.      | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Euler_Audit.pdf)                   |
+| **MahaLend**        | Non-custodial liquidity protocol                                           | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/MahaLend.pdf)                      |
+| **Dexlyn**          | DEX built on Supra Chain                                                   | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/DexlynBridge%20-%20report.pdf)     |
+| **TitanX Farms**    | Liquidity farming with buy-and-burn and slippage protection.               | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Farms_audit.pdf)                   |
+| **Beezie**          | RWA Market                                                                 | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Beezie_Official.pdf)               |
+| **HexPayDay**       | Stake Ending protocol                                                      | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/HexPayDay-security-review.pdf)     |
+| **Libree**          | Subscription-based DeFi for creators with tokenized revenue streams        | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Libree-Security-Review.pdf)        |
+| **Molly**           | ERC-20 token                                                               | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Molly-report.pdf)                  |
+| **Universal Page**  | Staking solution on LUKSO                                                  | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/UniversalPage-security-review.pdf) |
+| **AirPuff**         | Leveraged LRT exposure via restaking strategies and integrations           | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/AirPuff-Report.pdf)                |
+| **Chateau Capital** | Stablecoin staking for RWA exposure with off-chain NAV                     | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Chateau_Capital_audit.pdf)         |
+| **Groge**           | Hybrid ERC20/ERC1155 token with admin bypass                               | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/GrogeAuditReport.pdf)              |
+| **Athena**          | DeFi Insurance Protocol                                                    | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Athena-audit.pdf)                  |
+| **Blerb**           | Hybrid DeFi Protocol                                                       | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Blerb_audit.pdf)                   |
+| **Keiko**           | Vault-based stablecoin backed by collateral and liquidations               | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Keiko_audit_report.pdf)            |
+| **TokenLocker**     | Lock ERC20 tokens for a set time with optional extensions                  | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/TokenLocker.md)                    |
+| **EBASE**           | ERC-20 token on BASE                                                       | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/EBASE-security-review.pdf)         |
+| **MatriX**          | Deflationary Token Protocol                                                | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Matrix_Official.pdf)               |
+| **VOX 2.0 Finance** | Staking and farming with lock periods and fee splits                       | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/VOX2.0-Report.md)                  |
+| **Phoenix**         | Hyper Deflationary Protocol                                                | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Phoenix_Audit_Report.pdf)          |
+| **DonutDAO**        | DONUT token - core asset of DonutDAO’s SocialFi ecosystem                  | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/DonutDAO-Audit.pdf)                |
+| **Volt**            | Staking — time-based rewards using UniV3 LPs                               | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/VoltStaking_Audit.pdf)             |
+| **Pear Protocol**   | customizable token vesting with time-based restrictions and admin controls | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Pear_Protocol_Audit.pdf)           |
+| **Vyper Boost**     | Stake tokens, earn rewards via a supply-reducing buy-and-burn model        | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Vyper-Boost-report.pdf)            |
+| **Beezie**          | Enables stablecoin swaps via a Curve pool leSwap                           | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/BeezieStableSwap-Audit.pdf)        |
 
 ## Privacy
 
-| Project                                                                         | Report                                                                                       |
-| ------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| Whirl – Privacy Solution                                                        | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Whirl_Audit.pdf)        |
-| Privacy Pools – System designed to enhance security and privacy of transactions | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/PrivacyPools_Audit.pdf) |
-| ZKTSunami – a decentralized financial payment network                           | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/ZKTSunami_Audit.pdf)    |
+| Project           | Description                                                         | Report                                                                                          |
+| ----------------- | ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| **Whirl**         | Privacy-focused protocol with vesting and an external privacy layer | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Whirl-security-report.pdf) |
+| **Privacy Pools** | System designed to enhance security and privacy of transactions     | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/PrivacyPools-audit.pdf)    |
+| **ZKTSunami**     | A decentralized financial payment network                           | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/ZKTsunami-report.pdf)      |
 
 ## Oracle
 
-| Project                | Report                                                                                   |
-| ---------------------- | ---------------------------------------------------------------------------------------- |
-| Dora – Oracle          | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Dora_Audit.pdf)     |
-| SupraVRF – VRF service | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/SupraVRF_Audit.pdf) |
+| Project                 | Description                                                        | Report                                                                                   |
+| ----------------------- | ------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- |
+| **Supra Labs DORA**     | Oracle protocol using node clusters and quorum voting              | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/DORA-final.pdf)     |
+| **Supra Labs SupraVRF** | A hybrid on/off-chain protocol that provides verifiable randomness | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/SUPRAVRF-final.pdf) |
 
 ## Game / Lottery
 
-| Project                              | Report                                                                                    |
-| ------------------------------------ | ----------------------------------------------------------------------------------------- |
-| Blessed – Lottery                    | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Blessed_Audit.pdf)   |
-| CrashGame – Gambling Blockchain Game | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/CrashGame_Audit.pdf) |
-| Azuro – Betting engine               | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Azuro_Audit.pdf)     |
+| Project       | Description                      | Report                                                                                            |
+| ------------- | -------------------------------- | ------------------------------------------------------------------------------------------------- |
+| **Blessed**   | Lottery protocol for NFT raffles | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Blessed_audit_final.pdf)     |
+| **CrashGame** | Gambling Blockchain Game         | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/CrashGame_Audit.pdf)         |
+| **Azuro**     | Betting engine                   | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Azuro-report.md)             |
+| **Megapot**   | Lottery-based Protocol           | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Megapot-security-review.pdf) |
 
 ## Wallet
 
-| Project     | Report                                                                                     |
-| ----------- | ------------------------------------------------------------------------------------------ |
-| eSIM Wallet | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/eSIMWallet_Audit.pdf) |
+
+| Project         | Description                                                      | Report                                                                                      |
+| --------------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| **eSIM Wallet** | Smart wallets with biometric login, gasless txs, no seed phrases | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/eSIM%20-%20report.pdf) |
 
 ## NFT / Auction
 
-| Project                                          | Report                                                                                        |
-| ------------------------------------------------ | --------------------------------------------------------------------------------------------- |
-| TradFILines – NFT                                | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/TradFILines_Audit.pdf)   |
-| GarageSale – ERC721/ERC1155                      | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/GarageSale_Audit.pdf)    |
-| DragonStone – NFT English-style                  | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/DragonStone_Audit.pdf)   |
-| Wizard Gallery – NFT Marketplace                 | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/WizardGallery_Audit.pdf) |
-| Ascendant – Perpetual auctions & NFT marketplace | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Ascendant_Audit.pdf)     |
+| Project            | Description                                                               | Report                                                                                             |
+| ------------------ | ------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| **TradFiLines**    | NFT protocol that mirrors Bitcoin ordinals                                | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/TradFiLines-report.pdf)       |
+| **GarageSale**     | Bundles NFTs and sells them in timed Dutch auctions                       | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/GarageSale-report-final.pdf)  |
+| **DragonStone**    | NFT Collection of 20,000 NFTS that uses EC721A standard - English auction | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/DragonStone%20-%20report.pdf) |
+| **Wizard Gallery** | NFT Marketplace built for the Core ecosystem                              | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/WizardGallery-audit.pdf)      |
+| **Ascendant**      | Perpetual auctions & NFT marketplace                                      | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Ascendant-report.pdf)         |
+| **Varonve**        | NFT Staking protocol                                                      | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Varonve_audit.pdf)            |
+| **Sweeper**        | NFT liquidity flywheel using token tax to reward LPs                      | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Sweepr-report.pdf)            |
+| **Midnight**       | NFT protocol with breeding, rentals, marketplace, and pre-sale raffles.   | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Midnight_Official.pdf)        |
 
 ## Other
 
-| Project             | Report                                                                                |
-| ------------------- | ------------------------------------------------------------------------------------- |
-| Aelin – Fundraising | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Aelin_Audit.pdf) |
-| TJRM – ICO program  | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/TJRM_Audit.pdf)  |
-
+| Project   | Description                                                                    | Report                                                                                               |
+| --------- | ------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------- |
+| **Aelin** | Multi-chain protocol for raising capital via customizable deals/investor pools | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Aelin-Sub7-Security-Review.pdf) |
+| **TJRM**  | Solana-based ICO contract for buying tokens with SOL or USDT                   | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/TajirMedia_Audit_Report.pdf)    |
 
 
 # Contact us
