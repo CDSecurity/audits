@@ -20,7 +20,7 @@
 | Project             | Description                                                                | Report                                                                                                  |
 | ------------------- | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
 | **Euler**           | Wrapper for the EUL token that locks and distributes rEUL as rewards.      | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Euler_Audit.pdf)                   |
-| **MahaLend**        | Non-custodial liquidity protocol                                           | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/MahaLend.pdf)                      |
+| **MatriX**          | Deflationary Token Protocol                                                | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Matrix_Official.pdf)               |
 | **Dexlyn**          | DEX built on Supra Chain                                                   | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/DexlynBridge%20-%20report.pdf)     |
 | **TitanX Farms**    | Liquidity farming with buy-and-burn and slippage protection.               | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Farms_audit.pdf)                   |
 | **Beezie**          | RWA Market                                                                 | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Beezie_Official.pdf)               |
@@ -36,7 +36,7 @@
 | **Keiko**           | Vault-based stablecoin backed by collateral and liquidations               | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Keiko_audit_report.pdf)            |
 | **TokenLocker**     | Lock ERC20 tokens for a set time with optional extensions                  | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/TokenLocker.md)                    |
 | **EBASE**           | ERC-20 token on BASE                                                       | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/EBASE-security-review.pdf)         |
-| **MatriX**          | Deflationary Token Protocol                                                | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Matrix_Official.pdf)               |
+| **MahaLend**        | Non-custodial liquidity protocol                                           | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/MahaLend.pdf)                      |
 | **VOX 2.0 Finance** | Staking and farming with lock periods and fee splits                       | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/VOX2.0-Report.md)                  |
 | **Phoenix**         | Hyper Deflationary Protocol                                                | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Phoenix_Audit_Report.pdf)          |
 | **DonutDAO**        | DONUT token - core asset of DonutDAO’s SocialFi ecosystem                  | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/DonutDAO-Audit.pdf)                |
@@ -44,6 +44,8 @@
 | **Pear Protocol**   | customizable token vesting with time-based restrictions and admin controls | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Pear_Protocol_Audit.pdf)           |
 | **Vyper Boost**     | Stake tokens, earn rewards via a supply-reducing buy-and-burn model        | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Vyper-Boost-report.pdf)            |
 | **Beezie**          | Enables stablecoin swaps via a Curve pool leSwap                           | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/BeezieStableSwap-Audit.pdf)        |
+
+
 
 ## Privacy
 
