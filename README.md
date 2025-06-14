@@ -30,7 +30,7 @@
 | **Universal Page**  | Staking solution on LUKSO                                                  | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/UniversalPage-security-review.pdf) |
 | **AirPuff**         | Leveraged LRT exposure via restaking strategies and integrations           | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Airpuff_Report.pdf)                |
 | **Chateau Capital** | Stablecoin staking for RWA exposure with off-chain NAV                     | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/ChateauCapital_report.pdf)         |
-| **Groge**           | Hybrid ERC20/ERC1155 token with admin bypass                               | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/GrogeAuditReport.pdf)              |
+| **Groge**           | Hybrid ERC20/ERC1155 token with admin bypass                               | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Groge_Report.pdf)              |
 | **Athena**          | DeFi Insurance Protocol                                                    | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Athena_Report.pdf)                  |
 | **Blerb**           | Hybrid DeFi Protocol                                                       | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Blerb_Report.pdf)                   |
 | **Keiko**           | Vault-based stablecoin backed by collateral and liquidations               | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Keiko_audit_report.pdf)            |
