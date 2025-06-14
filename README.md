@@ -28,11 +28,11 @@
 | **Libree**          | Subscription-based DeFi for creators with tokenized revenue streams        | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Libree-Security-Review.pdf)        |
 | **Molly**           | ERC-20 token                                                               | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Molly-report.pdf)                  |
 | **Universal Page**  | Staking solution on LUKSO                                                  | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/UniversalPage-security-review.pdf) |
-| **AirPuff**         | Leveraged LRT exposure via restaking strategies and integrations           | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/AirPuff-Report.pdf)                |
-| **Chateau Capital** | Stablecoin staking for RWA exposure with off-chain NAV                     | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Chateau_Capital_audit.pdf)         |
+| **AirPuff**         | Leveraged LRT exposure via restaking strategies and integrations           | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Airpuff_Report.pdf)                |
+| **Chateau Capital** | Stablecoin staking for RWA exposure with off-chain NAV                     | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/ChateauCapital_report.pdf)         |
 | **Groge**           | Hybrid ERC20/ERC1155 token with admin bypass                               | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/GrogeAuditReport.pdf)              |
-| **Athena**          | DeFi Insurance Protocol                                                    | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Athena-audit.pdf)                  |
-| **Blerb**           | Hybrid DeFi Protocol                                                       | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Blerb_audit.pdf)                   |
+| **Athena**          | DeFi Insurance Protocol                                                    | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Athena_Report.pdf)                  |
+| **Blerb**           | Hybrid DeFi Protocol                                                       | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Blerb_Report.pdf)                   |
 | **Keiko**           | Vault-based stablecoin backed by collateral and liquidations               | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Keiko_audit_report.pdf)            |
 | **TokenLocker**     | Lock ERC20 tokens for a set time with optional extensions                  | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/TokenLocker.md)                    |
 | **EBASE**           | ERC-20 token on BASE                                                       | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/EBASE-security-review.pdf)         |
@@ -57,16 +57,16 @@
 
 | Project                 | Description                                                        | Report                                                                                   |
 | ----------------------- | ------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- |
-| **Supra Labs DORA**     | Oracle protocol using node clusters and quorum voting              | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/DORA-final.pdf)     |
+| **Supra Labs DORA**     | Oracle protocol using node clusters and quorum voting              | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/ChateauCapital_report.pdf)     |
 | **Supra Labs SupraVRF** | A hybrid on/off-chain protocol that provides verifiable randomness | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/SUPRAVRF-final.pdf) |
 
 ## Game / Lottery
 
 | Project       | Description                      | Report                                                                                            |
 | ------------- | -------------------------------- | ------------------------------------------------------------------------------------------------- |
-| **Blessed**   | Lottery protocol for NFT raffles | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Blessed_audit_final.pdf)     |
+| **Blessed**   | Lottery protocol for NFT raffles | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Blessed_Report.pdf)     |
 | **CrashGame** | Gambling Blockchain Game         | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/CrashGame_Audit.pdf)         |
-| **Azuro**     | Betting engine                   | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Azuro-report.md)             |
+| **Azuro**     | Betting engine                   | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Azuro_Report.pdf)             |
 | **Megapot**   | Lottery-based Protocol           | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Megapot-security-review.pdf) |
 
 ## Wallet
@@ -82,7 +82,7 @@
 | ------------------ | ------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
 | **TradFiLines**    | NFT protocol that mirrors Bitcoin ordinals                                | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/TradFiLines-report.pdf)       |
 | **GarageSale**     | Bundles NFTs and sells them in timed Dutch auctions                       | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/GarageSale-report-final.pdf)  |
-| **DragonStone**    | NFT Collection of 20,000 NFTS that uses EC721A standard - English auction | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/DragonStone%20-%20report.pdf) |
+| **DragonStone**    | NFT Collection of 20,000 NFTS that uses EC721A standard - English auction | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/DragonStone_Report.pdf) |
 | **Wizard Gallery** | NFT Marketplace built for the Core ecosystem                              | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/WizardGallery-audit.pdf)      |
 | **Ascendant**      | Perpetual auctions & NFT marketplace                                      | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Ascendant-report.pdf)         |
 | **Varonve**        | NFT Staking protocol                                                      | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Varonve_audit.pdf)            |
