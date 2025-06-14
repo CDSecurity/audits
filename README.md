@@ -69,7 +69,7 @@
 | **Blessed**   | Lottery protocol for NFT raffles | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Blessed_Report.pdf)     |
 | **CrashGame** | Gambling Blockchain Game         | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/CrashGame_Audit.pdf)         |
 | **Azuro**     | Betting engine                   | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Azuro_Report.pdf)             |
-| **Megapot**   | Lottery-based Protocol           | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Megapot-security-review.pdf) |
+| **Megapot**   | Lottery-based Protocol           | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Megapot_Report.pdf) |
 
 ## Wallet
 
