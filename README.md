@@ -60,7 +60,7 @@
 | Project                 | Description                                                        | Report                                                                                   |
 | ----------------------- | ------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- |
 | **Supra Labs DORA**     | Oracle protocol using node clusters and quorum voting              | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/SupraLabs_DORA_Report.pdf)     |
-| **Supra Labs SupraVRF** | A hybrid on/off-chain protocol that provides verifiable randomness | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/SUPRAVRF-final.pdf) |
+| **Supra Labs SupraVRF** | A hybrid on/off-chain protocol that provides verifiable randomness | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/SupraVRF_Report.pdf) |
 
 ## Game / Lottery
 
