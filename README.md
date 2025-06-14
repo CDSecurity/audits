@@ -27,7 +27,7 @@
 | **HexPayDay**       | Stake Ending protocol                                                      | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/HexPayDay_Report.pdf)     |
 | **Libree**          | Subscription-based DeFi for creators with tokenized revenue streams        | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Libree_Report.pdf)        |
 | **Molly**           | ERC-20 token                                                               | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Molly_Report.pdf)                  |
-| **Universal Page**  | Staking solution on LUKSO                                                  | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/UniversalPage-security-review.pdf) |
+| **Universal Page**  | Staking solution on LUKSO                                                  | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/UniversalPage_Report.pdf) |
 | **AirPuff**         | Leveraged LRT exposure via restaking strategies and integrations           | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Airpuff_Report.pdf)                |
 | **Chateau Capital** | Stablecoin staking for RWA exposure with off-chain NAV                     | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/ChateauCapital_report.pdf)         |
 | **Groge**           | Hybrid ERC20/ERC1155 token with admin bypass                               | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Groge_Report.pdf)              |
