@@ -34,7 +34,7 @@
 | **Athena**          | DeFi Insurance Protocol                                                    | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Athena_Report.pdf)                  |
 | **Blerb**           | Hybrid DeFi Protocol                                                       | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Blerb_Report.pdf)                   |
 | **Keiko**           | Vault-based stablecoin backed by collateral and liquidations               | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Keiko_Report.pdf)            |
-| **TokenLocker**     | Lock ERC20 tokens for a set time with optional extensions                  | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/TokenLocker.md)                    |
+| **TokenLocker**     | Lock ERC20 tokens for a set time with optional extensions                  | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/TokenLocker_Report.pdf)                    |
 | **EBASE**           | ERC-20 token on BASE                                                       | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/EBASE_Report.pdf)         |
 | **MahaLend**        | Non-custodial liquidity protocol                                           | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/MahaLend.pdf)                      |
 | **VOX 2.0 Finance** | Staking and farming with lock periods and fee splits                       | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/VOX2.0-Report.md)                  |
