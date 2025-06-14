@@ -19,7 +19,7 @@
 
 | Project             | Description                                                                | Report                                                                                                  |
 | ------------------- | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| **Euler**           | Wrapper for the EUL token that locks and distributes rEUL as rewards      | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Euler_Audit.pdf)                   |
+| **Euler**           | Wrapper for the EUL token that locks and distributes `rEUL` as rewards     | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Euler_Audit.pdf)                   |
 | **MatriX**          | Deflationary Token Protocol                                                | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Matrix_Official.pdf)               |
 | **Dexlyn**          | DEX built on Supra Chain                                                   | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/DexlynBridge%20-%20report.pdf)     |
 | **TitanX Farms**    | Liquidity farming with buy-and-burn and slippage protection                | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/TitanX_Farms_Report.pdf)                   |
@@ -97,7 +97,7 @@
 | Project   | Description                                                                    | Report                                                                                               |
 | --------- | ------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------- |
 | **Aelin** | Multi-chain protocol for raising capital via customizable deals/investor pools | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Aelin-Sub7-Security-Review.pdf) |
-| **TJRM**  | Solana-based ICO contract for buying tokens with SOL or USDT                   | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/TajirMedia_Audit_Report.pdf)    |
+| **TJRM**  | Solana-based ICO contract for buying tokens with SOL or USDT                   | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/TajirMedia_Report.pdf)    |
 
 
 # Contact us
