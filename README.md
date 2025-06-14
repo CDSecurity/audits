@@ -24,7 +24,7 @@
 | **Dexlyn**          | DEX built on Supra Chain                                                   | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/DexlynBridge%20-%20report.pdf)     |
 | **TitanX Farms**    | Liquidity farming with buy-and-burn and slippage protection                | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/TitanX_Farms_Report.pdf)                   |
 | **Beezie**          | RWA Market                                                                 | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Beezie_Official.pdf)               |
-| **HexPayDay**       | Stake Ending protocol                                                      | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/HexPayDay-security-review.pdf)     |
+| **HexPayDay**       | Stake Ending protocol                                                      | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/HexPayDay_Report.pdf)     |
 | **Libree**          | Subscription-based DeFi for creators with tokenized revenue streams        | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Libree-Security-Review.pdf)        |
 | **Molly**           | ERC-20 token                                                               | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Molly-report.pdf)                  |
 | **Universal Page**  | Staking solution on LUKSO                                                  | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/UniversalPage-security-review.pdf) |
