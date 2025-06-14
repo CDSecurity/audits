@@ -43,7 +43,7 @@
 | **Volt**            | Staking — time-based rewards using UniV3 LPs                               | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/VoltStaking_Audit.pdf)             |
 | **Pear Protocol**   | customizable token vesting with time-based restrictions and admin controls | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Pear_Protocol_Audit.pdf)           |
 | **Vyper Boost**     | Stake tokens, earn rewards via a supply-reducing buy-and-burn model        | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Vyper-Boost-report.pdf)            |
-| **Beezie**          | Enables stablecoin swaps via a Curve pool leSwap                           | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/BeezieStableSwap-Audit.pdf)        |
+| **Beezie**          | Enables stablecoin swaps via a Curve pool                                  | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/BeezieStableSwap-Audit.pdf)        |
 
 
 
