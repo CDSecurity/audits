@@ -83,7 +83,7 @@
 
 | Project            | Description                                                               | Report                                                                                             |
 | ------------------ | ------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
-| **TradFiLines**    | NFT protocol that mirrors Bitcoin ordinals                                | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/TradFiLines-report.pdf)       |
+| **TradFiLines**    | NFT protocol that mirrors Bitcoin ordinals                                | [PDF](https://github.com/CDSecurity/audits/blob/main/TradFiLines_Report.pdf)       |
 | **GarageSale**     | Bundles NFTs and sells them in timed Dutch auctions                       | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/GarageSale_Report.pdf)  |
 | **DragonStone**    | NFT Collection of 20,000 NFTS that uses EC721A standard - English auction | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/DragonStone_Report.pdf) |
 | **Wizard Gallery** | NFT Marketplace built for the Core ecosystem                              | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/WizardGallery-audit.pdf)      |
