@@ -54,7 +54,7 @@
 | ----------------- | ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
 | **Whirl**         | Privacy-focused protocol with vesting and an external privacy layer | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Whirl_Report.pdf) |
 | **Privacy Pools** | System designed to enhance security and privacy of transactions     | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/PrivacyPools_Report.pdf)    |
-| **ZKTSunami**     | A decentralized financial payment network                           | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/ZKTsunami-report.pdf)      |
+| **ZKTSunami**     | A decentralized financial payment network                           | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/ZKTsunami_Report.pdf)      |
 
 ## Oracle
 
