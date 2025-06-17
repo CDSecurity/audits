@@ -90,7 +90,7 @@
 | **Ascendant**      | Perpetual auctions & NFT marketplace                                      | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Ascendant-report.pdf)         |
 | **Varonve**        | NFT Staking protocol                                                      | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Varonve_Report.pdf)            |
 | **Sweeper**        | NFT liquidity flywheel using token tax to reward LPs                      | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Sweepr_Report.pdf)            |
-| **Midnight**       | NFT protocol with breeding, rentals, marketplace, and pre-sale raffles.   | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Midnight_Official.pdf)        |
+| **Midnight**       | NFT protocol with breeding, rentals, marketplace, and pre-sale raffles   | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Midnight_Official.pdf)        |
 
 ## Other
 
