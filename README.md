@@ -46,6 +46,7 @@
 | **Sumer.Money**     | Lending and borrowing market                                               | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/SumerMoney_Report.pdf)            |
 | **Beezie**          | Enables stablecoin swaps via a Curve pool                                  | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/BeezieStableSwap-Audit.pdf)        |
 | **Pegged Farm Keeper** | Liquidity farming module for stablecoin pairs using Uniswap V3             | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/PeggedFarmKeeper_Report.pdf)    |
+| **PowerX**           | Referral system for payouts in ERC20 and ETH, powering time-based mining rewards | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/PowerX-report.pdf)    |
 
 
 
