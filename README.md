@@ -53,13 +53,14 @@
 
 
 
-## Privacy
+## Privacy/Security
 
 | Project           | Description                                                         | Report                                                                                          |
 | ----------------- | ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
 | **Whirl**         | Privacy-focused protocol with vesting and an external privacy layer | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Whirl_Report.pdf) |
 | **Privacy Pools** | System designed to enhance security and privacy of transactions     | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/PrivacyPools_Report.pdf)    |
 | **ZKTSunami**     | A decentralized financial payment network                           | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/ZKTsunami_Report.pdf)      |
+| **Drew Security Bot**  | Discord bot adding 2FA to prevent unauthorized @everyone announcements | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/SecurityBot_report.pdf)    |
 
 ## Oracle
 
@@ -103,6 +104,7 @@
 | --------- | ------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------- |
 | **Aelin** | Multi-chain protocol for raising capital via customizable deals/investor pools | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Aelin-Sub7-Security-Review.pdf) |
 | **TJRM**  | Solana-based ICO contract for buying tokens with SOL or USDT                   | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/TajirMedia_Report.pdf)    |
+
 
 
 # Contact us
