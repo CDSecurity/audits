@@ -33,6 +33,7 @@
 | **Groge**           | Hybrid ERC20/ERC1155 token with admin bypass                               | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Groge_Report.pdf)              |
 | **Athena**          | DeFi Insurance Protocol                                                    | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Athena_Report.pdf)                  |
 | **Blerb**           | Hybrid DeFi Protocol                                                       | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Blerb_Report.pdf)                   |
+| **Turbo**           | Auction protocol with token burning and Uniswap V3 liquidity               | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Turbo-report.pdf)                   |
 | **Keiko**           | Vault-based stablecoin backed by collateral and liquidations               | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Keiko_Report.pdf)            |
 | **TokenLocker**     | Lock ERC20 tokens for a set time with optional extensions                  | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/TokenLocker_Report.pdf)                    |
 | **EBASE**           | ERC-20 token on BASE                                                       | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/EBASE_Report.pdf)         |
