@@ -45,6 +45,7 @@
 | **Vyper Boost**     | Stake tokens, earn rewards via a supply-reducing buy-and-burn model        | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Vyper-Boost-report.pdf)            |
 | **Sumer.Money**     | Lending and borrowing market                                               | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/SumerMoney_Report.pdf)            |
 | **Beezie**          | Enables stablecoin swaps via a Curve pool                                  | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/BeezieStableSwap-Audit.pdf)        |
+| **Pegged Farm Keeper** | Liquidity farming module for stablecoin pairs using Uniswap V3             | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/PeggedFarmKeeper_Report.pdf)    |
 
 
 
