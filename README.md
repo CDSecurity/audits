@@ -49,6 +49,7 @@
 | **Beezie**          | Enables stablecoin swaps via a Curve pool                                  | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/BeezieStableSwap-Audit.pdf)        |
 | **Pegged Farm Keeper** | Liquidity farming module for stablecoin pairs using Uniswap V3             | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/PeggedFarmKeeper_Report.pdf)    |
 | **Credifi**          | Offers unsecured loans via ERC1155/20, using oracles and vault integrations for control | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Credifi-report.pdf)    |
+| **Arbero**          | Converts `OHM` to `arBERO` with profit via vesting or instant claim          | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Arbero_Report.pdf)    |
 
 
 
