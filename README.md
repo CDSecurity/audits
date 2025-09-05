@@ -19,7 +19,7 @@
 
 | Project             | Description                                                                | Report                                                                                                  |
 | ------------------- | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| **Euler**           | Wrapper for the EUL token that locks and distributes `rEUL` as rewards     | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Euler_Audit.pdf)                   |
+| **Euler** | Wrapper for the EUL token that locks and distributes `rEUL` as rewards | [PDF – 2024](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Euler_Audit.pdf)<br>[PDF – 2025](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Euler_Report_2025.pdf) |
 | **MatriX**          | Deflationary Token Protocol                                                | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Matrix_Official.pdf)               |
 | **Dexlyn**          | DEX built on Supra Chain                                                   | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/DexlynBridge%20-%20report.pdf)     |
 | **TitanX Farms**    | Liquidity farming with buy-and-burn and slippage protection                | [PDF](https://github.com/CDSecurity/audits/blob/main/audit%20reports/TitanX_Farms_Report.pdf)                   |
