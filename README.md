@@ -15,7 +15,7 @@
 
 
 
-# 🔒 CD Security Audit Portfolio
+#  CD Security Audit Portfolio
 
 
 <summary><h2>📂 DeFi</h2></summary>
