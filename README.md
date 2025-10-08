@@ -54,6 +54,7 @@
 | **Pegged Farm Keeper** | Reviewed stablecoin farming module on Uniswap V3; secured liquidity pool logic. | [![Report](https://img.shields.io/badge/Report-PDF-blue?style=flat&logo=adobeacrobatreader)](https://github.com/CDSecurity/audits/blob/main/audit%20reports/PeggedFarmKeeper_Report.pdf) |
 | **Credifi** | Audit of lending contracts; validated ERC-1155/20 loan flows, oracle integrations, and vault security. | [![Report](https://img.shields.io/badge/Report-PDF-blue?style=flat&logo=adobeacrobatreader)](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Credifi-report.pdf) |
 | **Arbero** | Audited staking/vesting system; validated `OHM` → `arBERO` conversions for predictable returns. | [![Report](https://img.shields.io/badge/Report-PDF-blue?style=flat&logo=adobeacrobatreader)](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Arbero_Report.pdf) |
+| **Smart Invoice** | Audited escrow and factory contracts; verified milestone logic, resolver arbitration flow, and deterministic deployment mechanisms. | [![Report](https://img.shields.io/badge/Report-PDF-blue?style=flat&logo=adobeacrobatreader)](https://github.com/CDSecurity/audits/blob/main/audit%20reports/SmartInvoice_Report.pdf) |
 
 
 
