@@ -249,6 +249,8 @@ Use it internally for protocol audits, due diligence, or comparative risk scorin
 
 ---
 
+Note: Every category of DeFi protocol — AMMs, DEXs, lending markets, LSDs, and others - ultimately relies on ERC20 token behavior. Many real-world exploits stem from non-standard token implementations. See [Weird ERC20 Implementations](https://github.com/d-xo/weird-erc20) for reference before integrating any token.
+
 ### Usage
 
 This checklist is designed for internal and public security reviews oflending systems.  
