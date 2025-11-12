@@ -68,7 +68,6 @@ This checklist consolidates key security validations, design assumptions, and in
 - [ ] Are hookable tokens (ERC777/677) restricted or handled safely?  
   Why: Hooks can trigger reentrancy and state inconsistencies.
 
-> **Note:** Every DEX and AMM interacts with ERC20 tokens. Non-standard ERC20 behaviors (fee-on-transfer, rebasing, deflationary, etc.) can break invariant logic. See [Weird ERC20 Implementations](https://github.com/d-xo/weird-erc20) for examples.
 
 ---
 
