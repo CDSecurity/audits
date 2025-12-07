@@ -123,6 +123,7 @@
 |---------|-------------|--------|
 | **Aelin** | Multi-chain protocol for raising capital via customizable deals/investor pools | [![Report](https://img.shields.io/badge/Report-PDF-grey?style=flat&logo=adobeacrobatreader)](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Aelin-Sub7-Security-Review.pdf) |
 | **TJRM** | Solana-based ICO contract for buying tokens with SOL or USDT | [![Report](https://img.shields.io/badge/Report-PDF-grey?style=flat&logo=adobeacrobatreader)](https://github.com/CDSecurity/audits/blob/main/audit%20reports/TajirMedia_Report.pdf) |
+| **Cerebro** | Web3 portfolio dashboard aggregating multi-chain token and NFT balances, net-worth, yield, liquidity and cost-basis analytics | [![Report](https://img.shields.io/badge/Report-PDF-grey?style=flat&logo=adobeacrobatreader)](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Cerebro_Report.pdf) |
 
 
 
