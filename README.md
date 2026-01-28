@@ -57,6 +57,11 @@
 | **Smart Invoice**       | Escrow and factory contract system with milestone-based payouts, resolver arbitration, and deterministic deployment.                 | [![Report](https://img.shields.io/badge/Report-PDF-blue?style=flat\&logo=adobeacrobatreader)](https://github.com/CDSecurity/audits/blob/main/audit%20reports/SmartInvoice_Report.pdf)                                                                                                                                                                                         |
 | **10102 - Digital Inheritance** | Decentralized inheritance protocol using a “dead man’s switch” to transfer assets after inactivity, supporting EOAs and Gnosis Safes. | [![Report](https://img.shields.io/badge/Report-PDF-blue?style=flat&logo=adobeacrobatreader)](https://github.com/CDSecurity/audits/blob/main/audit%20reports/10102-Inheritance-report.pdf) |
 
+| **Ultra Markets** | Leverage protocol for prediction markets enabling LP-funded USDC vaults, age-weighted yield incentives, and on-chain profit-sharing via leveraged position management and settlement. | [![Report](https://img.shields.io/badge/Report-PDF-blue?style=flat&logo=adobeacrobatreader)](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Ultra-Markets-report.pdf) |
+
+
+
+
 
 
 
