@@ -1,4 +1,4 @@
-![CD-Security-S-1](https://github.com/user-attachments/assets/63ff457e-b082-415f-9360-69b661379dbd)
+![CD-Security-S-1](https://github.com/user-attachments/assets/525dc0a3-6630-4fe1-ba55-e96fa52dee26)
 
 <p align="center">
   <a href="https://t.me/chrisdior777">
