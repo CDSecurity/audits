@@ -1,4 +1,4 @@
-![CD-Security-S-1](https://github.com/user-attachments/assets/92dd0c44-db17-4a82-b7f3-e287c004c8d2)
+![CD-Security-S-1](https://github.com/user-attachments/assets/57b8f18f-7936-4298-a0b0-5078c20fb4ec)
 
 <p align="center">
   <a href="https://t.me/chrisdior777">
@@ -12,7 +12,6 @@
 <p align="center"><em>Let us know your security needs ☝️</em></p>
 
 ---
-
 
 
 
