@@ -1,4 +1,4 @@
-![CD-Security-S-1](https://github.com/user-attachments/assets/57b8f18f-7936-4298-a0b0-5078c20fb4ec)
+![CD-Security-S-1](https://github.com/user-attachments/assets/b0be5994-5931-4d20-b055-1221f38ff3ba)
 
 <p align="center">
   <a href="https://t.me/chrisdior777">
@@ -12,8 +12,6 @@
 <p align="center"><em>Let us know your security needs ☝️</em></p>
 
 ---
-
-
 
 
 #  CD Security Audit Portfolio
