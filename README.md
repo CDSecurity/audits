@@ -60,6 +60,7 @@
 | **10102 - Digital Inheritance** | Decentralized inheritance protocol using a “dead man’s switch” to transfer assets after inactivity, supporting EOAs and Gnosis Safes. | [![Report](https://img.shields.io/badge/Report-PDF-blue?style=flat&logo=adobeacrobatreader)](https://github.com/CDSecurity/audits/blob/main/audit%20reports/10102-Inheritance-report.pdf) |
 | **Ultra Markets** | Leverage protocol for prediction markets enabling LP-funded USDC vaults, age-weighted yield incentives, and on-chain profit-sharing via leveraged position management and settlement. | [![Report](https://img.shields.io/badge/Report-PDF-blue?style=flat&logo=adobeacrobatreader)](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Ultra-Markets-report.pdf) |
 | **BuilDeFi** | Token launch and DeFi infrastructure protocol on Uniswap V4 featuring fair launches, ownership NFTs, fee rewards, staking vaults, and liquidity support systems. | [![Report](https://img.shields.io/badge/Report-PDF-blue?style=flat&logo=adobeacrobatreader)](https://github.com/CDSecurity/audits/blob/main/audit%20reports/BuilDefi-report.pdf) |
+| **Sway** | Narrative-based crypto trading platform enabling users to take bullish or bearish positions on market stories via Hyperliquid. | [![Report](https://img.shields.io/badge/Report-PDF-blue?style=flat&logo=adobeacrobatreader)](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Sway_Report.pdf) |
 
 
 
