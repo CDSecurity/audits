@@ -143,6 +143,6 @@
 # Contact us
 - Twitter: [@chrisdior.eth](https://twitter.com/chrisdior777) / [@ddimitrovv22](https://twitter.com/ddimitrovv22)
 - Telegram: [chrisdior777](https://t.me/chrisdior777) / [ddimitrov22](https://t.me/ddimitrov22)
-- [Website](https://cdsecurity.site/)
+- [Website](https://cdsecurity.io/)
 
 
