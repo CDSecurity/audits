@@ -115,14 +115,15 @@
 
 | Project | Description | Report |
 |---------|-------------|--------|
-| **TradFiLines** | NFT protocol that mirrors Bitcoin ordinals | [![Report](https://img.shields.io/badge/Report-PDF-pink?style=flat&logo=adobeacrobatreader)](https://github.com/CDSecurity/audits/blob/main/audit%20reports/TradFiLines_Report.pdf) |
-| **GarageSale** | Bundles NFTs and sells them in timed Dutch auctions | [![Report](https://img.shields.io/badge/Report-PDF-pink?style=flat&logo=adobeacrobatreader)](https://github.com/CDSecurity/audits/blob/main/audit%20reports/GarageSale_Report.pdf) |
-| **DragonStone** | NFT collection of 20,000 NFTs using ERC721A standard – English auction | [![Report](https://img.shields.io/badge/Report-PDF-pink?style=flat&logo=adobeacrobatreader)](https://github.com/CDSecurity/audits/blob/main/audit%20reports/DragonStone_Report.pdf) |
-| **Wizard Gallery** | NFT marketplace built for the Core ecosystem | [![Report](https://img.shields.io/badge/Report-PDF-pink?style=flat&logo=adobeacrobatreader)](https://github.com/CDSecurity/audits/blob/main/audit%20reports/WizardGallery_Report.pdf) |
-| **Ascendant** | Perpetual auctions & NFT marketplace | [![Report](https://img.shields.io/badge/Report-PDF-pink?style=flat&logo=adobeacrobatreader)](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Ascendant-report.pdf) |
-| **Varonve** | NFT staking protocol | [![Report](https://img.shields.io/badge/Report-PDF-pink?style=flat&logo=adobeacrobatreader)](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Varonve_Report.pdf) |
-| **Sweeper** | NFT liquidity flywheel using token tax to reward LPs | [![Report](https://img.shields.io/badge/Report-PDF-pink?style=flat&logo=adobeacrobatreader)](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Sweepr_Report.pdf) |
-| **Midnight** | NFT protocol with breeding, rentals, marketplace, and pre-sale raffles | [![Report](https://img.shields.io/badge/Report-PDF-pink?style=flat&logo=adobeacrobatreader)](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Midnight_Official.pdf) |
+| **TradFiLines** | NFT protocol that mirrors Bitcoin ordinals. | [![Report](https://img.shields.io/badge/Report-PDF-pink?style=flat&logo=adobeacrobatreader)](https://github.com/CDSecurity/audits/blob/main/audit%20reports/TradFiLines_Report.pdf) |
+| **GarageSale** | Bundles NFTs and sells them in timed Dutch auctions. | [![Report](https://img.shields.io/badge/Report-PDF-pink?style=flat&logo=adobeacrobatreader)](https://github.com/CDSecurity/audits/blob/main/audit%20reports/GarageSale_Report.pdf) |
+| **DragonStone** | NFT collection of 20,000 NFTs using ERC721A standard – English auction. | [![Report](https://img.shields.io/badge/Report-PDF-pink?style=flat&logo=adobeacrobatreader)](https://github.com/CDSecurity/audits/blob/main/audit%20reports/DragonStone_Report.pdf) |
+| **Wizard Gallery** | NFT marketplace built for the Core ecosystem. | [![Report](https://img.shields.io/badge/Report-PDF-pink?style=flat&logo=adobeacrobatreader)](https://github.com/CDSecurity/audits/blob/main/audit%20reports/WizardGallery_Report.pdf) |
+| **Ascendant** | Perpetual auctions & NFT marketplace. | [![Report](https://img.shields.io/badge/Report-PDF-pink?style=flat&logo=adobeacrobatreader)](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Ascendant-report.pdf) |
+| **Varonve** | NFT staking protocol. | [![Report](https://img.shields.io/badge/Report-PDF-pink?style=flat&logo=adobeacrobatreader)](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Varonve_Report.pdf) |
+| **Sweeper** | NFT liquidity flywheel using token tax to reward LPs. | [![Report](https://img.shields.io/badge/Report-PDF-pink?style=flat&logo=adobeacrobatreader)](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Sweepr_Report.pdf) |
+| **Midnight** | NFT protocol with breeding, rentals, marketplace, and pre-sale raffles. | [![Report](https://img.shields.io/badge/Report-PDF-pink?style=flat&logo=adobeacrobatreader)](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Midnight_Official.pdf) |
+| **Aidea** | ERC20 launchpad template with auto-evolving ERC721 identity NFTs whose traits progress based on on-chain trading behavior. | [![Report 2026](https://img.shields.io/badge/Report-2026-blue?style=flat&logo=adobeacrobatreader)](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Aidea_Report.pdf) [![Report 2026](https://img.shields.io/badge/Report-2026-navy?style=flat&logo=adobeacrobatreader)](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Aidea_Followup_Report.pdf) |
 
 ---
 
