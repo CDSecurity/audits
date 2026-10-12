@@ -1,9 +1,10 @@
-![CD-Security-S-1](https://github.com/user-attachments/assets/b0be5994-5931-4d20-b055-1221f38ff3ba)
+![CD-Security-S-1](https://github.com/user-attachments/assets/77303968-4c40-4559-ae02-c7fc4f23efac)
+
 
 <p align="center">
   <a href="https://t.me/chrisdior777">
     <img
-      src="https://img.shields.io/badge/BOOK%20AN%20AUDIT%20NOW-0F3E4C?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0F3E4C"
+      src="https://img.shields.io/badge/BOOK%20AN%20AUDIT%20NOW-008BA3?style=for-the-badge&logo=telegram&logoColor=white&labelColor=008BA3"
       alt="Book an Audit Now"
       width="350"
     />
