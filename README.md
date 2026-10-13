@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://t.me/chrisdior777">
     <img
-      src="https://img.shields.io/badge/BOOK%20AN%20AUDIT%20NOW-008BA3?style=for-the-badge&logo=telegram&logoColor=white&labelColor=008BA3"
+      src="https://img.shields.io/badge/BOOK%20AN%20AUDIT%20NOW-008BA3?style=for-the-badge&logo=telegram&logoColor=white&labelColor=297997"
       alt="Book an Audit Now"
       width="350"
     />
@@ -390,22 +390,22 @@
   <tbody>
     <tr>
       <td valign="top" width="23%"><strong>Whirl</strong><br /><sub>Privacy &amp; vesting</sub></td>
-      <td valign="top" width="57%">Privacy-focused protocol with vesting and an external privacy layer</td>
+      <td valign="top" width="57%">Privacy-focused transaction protocol featuring its own ERC-20 token, WhirlToken, with token vesting functionality and an additional virtual privacy layer for private transactions, which was excluded from the audit scope.</td>
       <td valign="middle" align="center" width="20%"><a href="https://github.com/CDSecurity/audits/blob/main/audit%20reports/Whirl_Report.pdf" title="Whirl | Report"><img src="https://img.shields.io/badge/VIEW-REPORT-297997?style=flat-square" alt="Whirl | Report" /></a></td>
     </tr>
     <tr>
       <td valign="top" width="23%"><strong>Privacy Pools</strong><br /><sub>Private transactions</sub></td>
-      <td valign="top" width="57%">System designed to enhance security and privacy of transactions</td>
+      <td valign="top" width="57%">Non-custodial transaction privacy protocol using zero-knowledge proofs for private deposits and withdrawals, customizable anonymity sets, and mechanisms to exclude illicit funds while preserving legitimate users’ financial privacy.</td>
       <td valign="middle" align="center" width="20%"><a href="https://github.com/CDSecurity/audits/blob/main/audit%20reports/PrivacyPools_Report.pdf" title="Privacy Pools | Report"><img src="https://img.shields.io/badge/VIEW-REPORT-297997?style=flat-square" alt="Privacy Pools | Report" /></a></td>
     </tr>
     <tr>
       <td valign="top" width="23%"><strong>ZKTSunami</strong><br /><sub>Payment network</sub></td>
-      <td valign="top" width="57%">A decentralized financial payment network</td>
+      <td valign="top" width="57%">Privacy-focused payment network enabling anonymized ETH/ERC-20 deposits, ZK-ConSNARK transfers that conceal sender and recipient identities while encrypting payment amounts, and withdrawals through secret-key-based CreateBurnTx transactions.</td>
       <td valign="middle" align="center" width="20%"><a href="https://github.com/CDSecurity/audits/blob/main/audit%20reports/ZKTsunami_Report.pdf" title="ZKTSunami | Report"><img src="https://img.shields.io/badge/VIEW-REPORT-297997?style=flat-square" alt="ZKTSunami | Report" /></a></td>
     </tr>
     <tr>
       <td valign="top" width="23%"><strong>Drew Security Bot</strong><br /><sub>Discord authorization</sub></td>
-      <td valign="top" width="57%">Discord bot adding 2FA to prevent unauthorized @everyone announcements</td>
+      <td valign="top" width="57%">Discord security bot enforcing two-factor authentication for announcement-channel posts and time-limited @everyone permissions, protecting server communications against compromised team or moderator accounts attempting to publish malicious links or unauthorized announcements.</td>
       <td valign="middle" align="center" width="20%"><a href="https://github.com/CDSecurity/audits/blob/main/audit%20reports/SecurityBot_report.pdf" title="Drew Security Bot | Report"><img src="https://img.shields.io/badge/VIEW-REPORT-297997?style=flat-square" alt="Drew Security Bot | Report" /></a></td>
     </tr>
   </tbody>
@@ -428,12 +428,12 @@
   <tbody>
     <tr>
       <td valign="top" width="23%"><strong>Supra Labs DORA</strong><br /><sub>Data oracle</sub></td>
-      <td valign="top" width="57%">Oracle protocol using node clusters and quorum voting</td>
+      <td valign="top" width="57%">On-chain oracle infrastructure supporting price feeds through clan-node data aggregation, validator quorum approval, S-value calculations, and exchange-rate storage for trading pairs.</td>
       <td valign="middle" align="center" width="20%"><a href="https://github.com/CDSecurity/audits/blob/main/audit%20reports/SupraLabs_DORA_Report.pdf" title="Supra Labs DORA | Report"><img src="https://img.shields.io/badge/VIEW-REPORT-297997?style=flat-square" alt="Supra Labs DORA | Report" /></a></td>
     </tr>
     <tr>
       <td valign="top" width="23%"><strong>Supra Labs SupraVRF</strong><br /><sub>Verifiable randomness</sub></td>
-      <td valign="top" width="57%">A hybrid on/off-chain protocol that provides verifiable randomness</td>
+      <td valign="top" width="57%">Hybrid verifiable randomness protocol using whitelisted client contracts, prepaid deposits, on-chain request validation and routing, off-chain signature generation, and callback verification with automated fee collection.</td>
       <td valign="middle" align="center" width="20%"><a href="https://github.com/CDSecurity/audits/blob/main/audit%20reports/SupraVRF_Report.pdf" title="Supra Labs SupraVRF | Report"><img src="https://img.shields.io/badge/VIEW-REPORT-297997?style=flat-square" alt="Supra Labs SupraVRF | Report" /></a></td>
     </tr>
   </tbody>
@@ -456,22 +456,22 @@
   <tbody>
     <tr>
       <td valign="top" width="23%"><strong>Blessed</strong><br /><sub>NFT raffle</sub></td>
-      <td valign="top" width="57%">Lottery protocol for NFT raffles</td>
+      <td valign="top" width="57%">NFT lottery and auction protocol deploying seller-specific contracts, supporting ticket purchases, NFT winner selection, settlement of winning deposits, and seller withdrawals with automated protocol fee deductions.</td>
       <td valign="middle" align="center" width="20%"><a href="https://github.com/CDSecurity/audits/blob/main/audit%20reports/Blessed_Report.pdf" title="Blessed | Report"><img src="https://img.shields.io/badge/VIEW-REPORT-297997?style=flat-square" alt="Blessed | Report" /></a></td>
     </tr>
     <tr>
       <td valign="top" width="23%"><strong>CrashGame</strong><br /><sub>Blockchain gaming</sub></td>
-      <td valign="top" width="57%">Gambling Blockchain Game</td>
+      <td valign="top" width="57%">Blockchain-based crash gambling protocol featuring multiplier-based betting and player-controlled cashouts, with on-chain randomness generation, affiliate commission distribution, and dedicated balance management contracts for handling user funds.</td>
       <td valign="middle" align="center" width="20%"><a href="https://github.com/CDSecurity/audits/blob/main/audit%20reports/CrashGame_Audit.pdf" title="CrashGame | Report"><img src="https://img.shields.io/badge/VIEW-REPORT-297997?style=flat-square" alt="CrashGame | Report" /></a></td>
     </tr>
     <tr>
       <td valign="top" width="23%"><strong>Azuro</strong><br /><sub>Betting infrastructure</sub></td>
-      <td valign="top" width="57%">Betting engine</td>
+      <td valign="top" width="57%">Decentralized peer-to-pool betting protocol featuring factory-deployed pools, access-controlled liquidity management, smart contract betting engines, NFT-based bet representation, and affiliate integrations with profit-sharing mechanisms.</td>
       <td valign="middle" align="center" width="20%"><a href="https://github.com/CDSecurity/audits/blob/main/audit%20reports/Azuro_Report.pdf" title="Azuro | Report"><img src="https://img.shields.io/badge/VIEW-REPORT-297997?style=flat-square" alt="Azuro | Report" /></a></td>
     </tr>
     <tr>
       <td valign="top" width="23%"><strong>Megapot</strong><br /><sub>On-chain lottery</sub></td>
-      <td valign="top" width="57%">Lottery-based Protocol</td>
+      <td valign="top" width="57%">On-chain jackpot lottery protocol combining liquidity-provider-funded prize pools with user ticket purchases, enabling jackpot payouts to winners and percentage-based yield distribution to liquidity providers from ticket entry proceeds.</td>
       <td valign="middle" align="center" width="20%"><a href="https://github.com/CDSecurity/audits/blob/main/audit%20reports/Megapot_Report.pdf" title="Megapot | Report"><img src="https://img.shields.io/badge/VIEW-REPORT-297997?style=flat-square" alt="Megapot | Report" /></a></td>
     </tr>
   </tbody>
@@ -494,7 +494,7 @@
   <tbody>
     <tr>
       <td valign="top" width="23%"><strong>eSIM Wallet</strong><br /><sub>Smart accounts</sub></td>
-      <td valign="top" width="57%">Smart wallets with biometric login, gasless txs, no seed phrases</td>
+      <td valign="top" width="57%">ERC-4337 smart wallet infrastructure integrating WebAuthn and eSIM authentication, P-256 signature verification, gasless transactions, lazy wallet deployment, and multi-device authorization through hardware-backed credentials, eliminating traditional seed phrase management.</td>
       <td valign="middle" align="center" width="20%"><a href="https://github.com/CDSecurity/audits/blob/main/audit%20reports/eSIM%20-%20report.pdf" title="eSIM Wallet | Report"><img src="https://img.shields.io/badge/VIEW-REPORT-297997?style=flat-square" alt="eSIM Wallet | Report" /></a></td>
     </tr>
   </tbody>
