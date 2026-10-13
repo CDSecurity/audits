@@ -261,8 +261,8 @@
     <tr>
       <td valign="top" width="23%"><strong>Hyperlend</strong><br /><sub>ERC-20 &amp; airdrops</sub></td>
       <td valign="top" width="57%">Upgradeable ERC20 token with EIP-2612 permit and deterministic fixed-supply minting, paired with a Merkle-based airdrop distributor supporting deadline-bound claims, alternate recipients, gas-optimized tracking, and post-expiry recovery of unclaimed tokens.</td>
-      <td valign="middle" align="center" width="20%"><a href="https://github.com/CDSecurity/audits/blob/main/audit%20reports/Hyperlend-report.pdf" title="Hyperlend | Report 2026"><img src="https://img.shields.io/badge/VIEW-INITIAL-297997?style=flat-square" alt="Hyperlend | Report 2026" /></a><br />
-<a href="https://github.com/CDSecurity/audits/blob/e1a5738502cac0fe529e784f8482751fa35e9880/audit%20reports/HyperLend-2nd-review.pdf" title="Hyperlend | Report 2026"><img src="https://img.shields.io/badge/VIEW-RE--REVIEW-297997?style=flat-square" alt="Hyperlend | Report 2026" /></a></td>
+      <td valign="middle" align="center" width="20%"><a href="https://github.com/CDSecurity/audits/blob/main/audit%20reports/Hyperlend-report.pdf" title="Hyperlend | Report 2026"><img src="https://img.shields.io/badge/VIEW-2026-297997?style=flat-square" alt="Hyperlend | Report 2026" /></a><br />
+<a href="https://github.com/CDSecurity/audits/blob/e1a5738502cac0fe529e784f8482751fa35e9880/audit%20reports/HyperLend-2nd-review.pdf" title="Hyperlend | Report 2026"><img src="https://img.shields.io/badge/VIEW-2026-297997?style=flat-square" alt="Hyperlend | Report 2026" /></a></td>
     </tr>
     <tr>
       <td valign="top" width="23%"><strong>TokenLocker</strong><br /><sub>Token timelocks</sub></td>
